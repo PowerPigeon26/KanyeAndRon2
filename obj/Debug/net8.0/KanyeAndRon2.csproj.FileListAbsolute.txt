@@ -1,0 +1,17 @@
+E:\Repos\KanyeAndRon2\bin\Debug\net8.0\KanyeAndRon2.exe
+E:\Repos\KanyeAndRon2\bin\Debug\net8.0\KanyeAndRon2.deps.json
+E:\Repos\KanyeAndRon2\bin\Debug\net8.0\KanyeAndRon2.runtimeconfig.json
+E:\Repos\KanyeAndRon2\bin\Debug\net8.0\KanyeAndRon2.dll
+E:\Repos\KanyeAndRon2\bin\Debug\net8.0\KanyeAndRon2.pdb
+E:\Repos\KanyeAndRon2\obj\Debug\net8.0\KanyeAndRon2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\KanyeAndRon2\obj\Debug\net8.0\KanyeAndRon2.AssemblyInfoInputs.cache
+E:\Repos\KanyeAndRon2\obj\Debug\net8.0\KanyeAndRon2.AssemblyInfo.cs
+E:\Repos\KanyeAndRon2\obj\Debug\net8.0\KanyeAndRon2.csproj.CoreCompileInputs.cache
+E:\Repos\KanyeAndRon2\obj\Debug\net8.0\KanyeAndRon2.dll
+E:\Repos\KanyeAndRon2\obj\Debug\net8.0\refint\KanyeAndRon2.dll
+E:\Repos\KanyeAndRon2\obj\Debug\net8.0\KanyeAndRon2.pdb
+E:\Repos\KanyeAndRon2\obj\Debug\net8.0\KanyeAndRon2.genruntimeconfig.cache
+E:\Repos\KanyeAndRon2\obj\Debug\net8.0\ref\KanyeAndRon2.dll
+E:\Repos\KanyeAndRon2\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Repos\KanyeAndRon2\obj\Debug\net8.0\KanyeAndRon2.csproj.AssemblyReference.cache
+E:\Repos\KanyeAndRon2\obj\Debug\net8.0\KanyeAnd.3ADA6A3F.Up2Date

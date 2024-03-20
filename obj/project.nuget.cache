@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NERk43/7OmBAST5lfXf13WvWxGFfTTfphM+4d/rGCb0NdE1xvNYDBloI4CuX7Nh+FU7Ip4DIU07EWAjDUq1YRQ==",
+  "success": true,
+  "projectFilePath": "E:\\Repos\\KanyeAndRon2\\KanyeAndRon2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maver\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
